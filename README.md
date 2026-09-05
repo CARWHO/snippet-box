@@ -1,6 +1,6 @@
 # Snippetbox
 
-Go web app from Let's Go by Alex Edwards. Paste some text, give it an expiry, share the link.
+Go web app from Let's Go by Alex Edwards. Let's you put in some text enter a date it expires and you can share the link.
 
 This was a Go learning exercise before I built anything real with Go. As it is the age of AI, I feel I am obligated to write let you know that every line of code here was written by hand! Chapter notes are in: notes/letsgo/. I wrote these in my own words from my understanding of each section, then went back through them at the end to make sure I actually understood everything I'd built.
 
